@@ -4,7 +4,7 @@ go 1.25.0
 
 require (
 	github.com/getsops/sops/v3 v3.11.0
-	github.com/kahnwong/cli-base v0.0.0-20250814120046-dde1e03ae9dd
+	github.com/kahnwong/cli-base v0.0.0-20260101083643-0c950e574c26
 	github.com/rs/zerolog v1.34.0
 	gopkg.in/yaml.v3 v3.0.1
 )
