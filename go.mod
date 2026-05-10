@@ -1,6 +1,6 @@
 module github.com/kahnwong/cli-base-sops
 
-go 1.26.2
+go 1.26.3
 
 require (
 	github.com/getsops/sops/v3 v3.13.0
