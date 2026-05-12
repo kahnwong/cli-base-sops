@@ -4,7 +4,7 @@ go 1.26.3
 
 require (
 	github.com/getsops/sops/v3 v3.13.0
-	github.com/kahnwong/cli-base v0.0.0-20260430124253-310ea2400611
+	github.com/kahnwong/cli-base v0.0.0-20260512102925-06fe226bcb0d
 	gopkg.in/yaml.v3 v3.0.1
 )
 
