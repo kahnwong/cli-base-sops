@@ -258,6 +258,8 @@ github.com/getsops/sops/v3 v3.11.0 h1:HsJhfZDcLMBZSphnTXIcsS9oR5jJgzSivo0j9zf8KV
 github.com/getsops/sops/v3 v3.11.0/go.mod h1:KiyVXNRMIEPCSAiapB8e8u+AaQGFgLlWo4Sk9PNTso0=
 github.com/getsops/sops/v3 v3.13.0 h1:VixwWpYH7dtyKQmgztGuzFWsVpOjf3aBptYZPcWT7lM=
 github.com/getsops/sops/v3 v3.13.0/go.mod h1:nzNfOsDemdMbRMKiSizOQrePnGMVQPZCQn5O4n0BpnY=
+github.com/getsops/sops/v3 v3.13.1 h1:Ut+4QWrDD5yrbcPwXsc+w5WQozqg6KaPH6vRF8NVH1Y=
+github.com/getsops/sops/v3 v3.13.1/go.mod h1:7aUmuMVEyzf8SsZoziMScyeEwhMse5TfzkIwT8jJfL4=
 github.com/go-jose/go-jose/v4 v4.1.1 h1:JYhSgy4mXXzAdF3nUx3ygx347LRXJRrpgyU3adRmkAI=
 github.com/go-jose/go-jose/v4 v4.1.1/go.mod h1:BdsZGqgdO3b6tTc6LSE56wcDbMMLuPsw5d4ZD5f94kA=
 github.com/go-jose/go-jose/v4 v4.1.4 h1:moDMcTHmvE6Groj34emNPLs/qtYXRVcd6S7NHbHz3kA=
